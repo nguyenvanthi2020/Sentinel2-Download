@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/sentinel2_download" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
