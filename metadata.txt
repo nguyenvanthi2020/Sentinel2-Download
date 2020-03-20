@@ -12,7 +12,7 @@ email=nguyenvanthi@ifee.edu.vn
 
 about=This plugin allows downloading the satellite images Sentinel-2 into QGIS at any time according to the administrative boundaries of the commune to support the task of updating forest changes and reviewing the current status of forests in payment for forest environmental services. Please send your comments and/or discussions at FanPage https://facebook.com/lamnghiep4.0 or email to nguyenvanthi@ifee.edu.vn.
 
-tracker=https://github.com/nguyenvanthi2020/thi-gis/issues
+tracker=https://github.com/nguyenvanthi2020/Sentinel2-Download/issues
 repository=https://github.com/nguyenvanthi2020/Sentinel2-Download
 # End of mandatory metadata
 
